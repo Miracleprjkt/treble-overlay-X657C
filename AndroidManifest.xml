@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="me.phh.treble.overlay.infinix.s4"
+        package="me.phh.treble.overlay.infinix.smart5
+"
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="android"
